@@ -15,6 +15,7 @@ public class MyStepDefinitions {
 	    public void user_is_on_internet_landing_page() throws Throwable {
 	        System.out.println("user is on internet landing page");
 	        System.out.println("user is on landing page -  for git");
+	        System.out.println("user is on landing page -  for git2..");
 	    }
 
 	 @When("^user login into application with (.+) and (.+)$")
